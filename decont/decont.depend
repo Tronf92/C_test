@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1381942771 source:c:\users\ady\desktop\test\decont\ca.cpp
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+
